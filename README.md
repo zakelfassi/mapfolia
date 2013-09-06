@@ -10,7 +10,7 @@ Refer to [Backbone-AMD boilerplate](https://github.com/zakelfassi/backbone-amd-b
 
 # Where ?
 
-You can play with it [here.](mapfolia.herokuapp.com).
+You can play with it [here.](http://mapfolia.herokuapp.com).
 
 # TODOs ?
 
