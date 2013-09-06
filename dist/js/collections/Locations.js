@@ -1,0 +1,1 @@
+define(["jquery","underscore","backbone","models/Location","views/LocationsListView"],function(e,t,n,r,i){var s=n.Collection.extend({model:r,initialize:function(){console.log("Locations initialized.")}});return s});

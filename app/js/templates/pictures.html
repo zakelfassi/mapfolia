@@ -1,0 +1,5 @@
+<% _.each(pictures, function (picture) { %>
+  <div class="picture">
+    <img src="<%= picture.get('photo_file_url') %>" alt="<%= picture.get('photo_title') %>" width="<%= picture.get('width') %>" height="<%= picture.get('height') %>">
+  </div>
+<% }); %>

@@ -1,0 +1,1 @@
+define(["underscore","backbone"],function(e,t){var n=t.Model.extend({defaults:{photo_title:"Untitled",photo_file_url:"http://placehold.it/300x300",longitude:"0",latitude:"0",upload_date:"Today"},initialize:function(){this.on("change",function(e){console.log("Model changed to "+e)})}});return n});
