@@ -12,7 +12,7 @@ Refer to [Backbone-AMD boilerplate](https://github.com/zakelfassi/backbone-amd-b
 
 You can play with it [here.](http://mapfolia.herokuapp.com).
 
-The tests Runner is available [here](http://mapfolia.herokuapp.com/tests/SpecRunner.html)
+The tests Runner is available at `app/tests/SpecRunner.html` (fire up app/server.sh first then [http://0.0.0.0:8000/tests/SpecRunner.html](http://0.0.0.0:8000/tests/SpecRunner.html))
 
 # TODOs ?
 
